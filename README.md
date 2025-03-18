@@ -27,6 +27,10 @@ A형
 
 - sidebar.md 추가
 
+# 검색
+
+- search.md 추가
+
 ## 푸터
 
 - footer.md 추가
